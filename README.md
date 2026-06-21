@@ -1,16 +1,96 @@
-## Hi there 👋
+# Hi 👋, I'm Ayush Raj
 
-<!--
-**ayushraj0055/ayushraj0055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Software Engineer | Java Developer | AI & ML Enthusiast
 
-Here are some ideas to get you started:
+🎓 B.Tech Computer Science & Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Top 100 Selection – IIT Madras Program
+
+💻 Passionate about Software Development, Artificial Intelligence, Machine Learning, and Full Stack Development
+
+🌱 Currently Learning:
+
+* Data Structures & Algorithms in Java
+* Full Stack Development (React, Node.js, MongoDB)
+* Machine Learning & AI
+* System Design
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Java
+* Python
+* C
+
+### Frontend
+
+* React.js
+* HTML5
+* CSS3
+* JavaScript
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+* Django
+
+### Database
+
+* MongoDB
+* MySQL
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Postman
+
+---
+
+## 🚀 Featured Projects
+
+### 🌬️ Smart Ventilation Controller (CO₂ & VOC Based)
+
+IoT-based intelligent exhaust fan controller for improving indoor air quality.
+
+### 🏥 InstaAid
+
+Healthcare platform for nurse booking, doctor consultation, and ambulance services.
+
+### 🌱 Environmental Monitoring Using IoT
+
+Real-time monitoring of temperature, humidity, air quality, and environmental parameters.
+
+### 🛒 E-Commerce Website
+
+Full-stack shopping platform built using Django and modern web technologies.
+
+---
+
+## 📈 Current Goals
+
+✅ Master DSA in Java
+
+✅ Build Industry-Level Full Stack Projects
+
+✅ Contribute to Open Source
+
+🎯 Secure a Top Software Engineering Role
+
+---
+
+## 📫 Connect With Me
+
+GitHub: github.com/ayushraj0055
+
+---
+
+### 💡 Quote
+
+"Continuous learning and consistent practice transform potential into expertise."
